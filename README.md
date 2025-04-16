@@ -1,2 +1,2 @@
-# SSE3401_LAB4
-This is a repository for the lab 4 of SSE3401 Mobile Application Development.
+# SSE3401_LAB3
+This is a repository for the lab 3 of SSE3401 Mobile Application Development.
